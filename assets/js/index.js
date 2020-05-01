@@ -16,4 +16,10 @@ $(document).ready(() => {
 
   // initial timepicker
   $(".timepicker").timepicker();
+
+  // initial tooltip
+  $(".tooltipped").tooltip();
+
+  // initial scrollSpay
+  $(".scrollspy").scrollSpy();
 });
