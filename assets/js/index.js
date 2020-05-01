@@ -10,4 +10,10 @@ $(document).ready(() => {
 
   // initial tabs
   $(".tabs").tabs();
+
+  // initial datepicker
+  $(".datepicker").datepicker();
+
+  // initial timepicker
+  $(".timepicker").timepicker();
 });
