@@ -3,5 +3,8 @@ $(document).ready(() => {
   $(".sidenav").sidenav();
 
   // initial materialboxed
-  $(".materialboxed").materialbox();                                          
+  $(".materialboxed").materialbox();  
+  
+  // initial parallex
+  $('.parallax').parallax();
 });
